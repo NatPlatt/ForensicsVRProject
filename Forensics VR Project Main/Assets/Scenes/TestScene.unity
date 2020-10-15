@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028377, g: 0.22571409, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -371,6 +371,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: houseWhitebox
+      objectReference: {fileID: 0}
+    - target: {fileID: 1112144747173218174, guid: e0e14b8d29443564caf4208cac48457a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3272
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0e14b8d29443564caf4208cac48457a, type: 3}
