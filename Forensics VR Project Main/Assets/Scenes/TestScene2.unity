@@ -106,15 +106,15 @@ NavMeshSettings:
   m_BuildSettings:
     serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 0.5
+    agentRadius: 0.25
     agentHeight: 2
     agentSlope: 45
-    agentClimb: 0.4
-    ledgeDropHeight: 0
+    agentClimb: 0.8
+    ledgeDropHeight: 0.01
     maxJumpAcrossDistance: 0
     minRegionArea: 2
     manualCellSize: 0
-    cellSize: 0.16666667
+    cellSize: 0.083333336
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
@@ -30457,17 +30457,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 78.202614
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 78.202614
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 78.202614
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: -2199972294170995322, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
         type: 3}
@@ -30502,6 +30502,16 @@ PrefabInstance:
     - target: {fileID: 2265664308165989035, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
         type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2706790727220717145, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
+        type: 3}
+      propertyPath: m_TagString
+      value: ExcludeTeleport
+      objectReference: {fileID: 0}
+    - target: {fileID: 2706790727220717145, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3402593929924581090, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
@@ -35702,6 +35712,25 @@ Transform:
   m_Father: {fileID: 1504743373}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &880786166 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2706790727220717145, guid: 2c8ed1651b9e1d74aabe4265caa2cbee,
+    type: 3}
+  m_PrefabInstance: {fileID: 735010687}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &880786168
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 880786166}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.14633183, y: 0.010034731, z: 0.19649583}
+  m_Center: {x: -0.000000007451417, y: -2.3283064e-10, z: 0.00044893107}
 --- !u!1 &881002445
 GameObject:
   m_ObjectHideFlags: 0
@@ -51257,8 +51286,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1212309424}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -9.09, y: -0.69, z: -36.83}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalPosition: {x: -9.09, y: -0.97, z: -36.937}
+  m_LocalScale: {x: 1.14879, y: 1.14879, z: 1.14879}
   m_Children:
   - {fileID: 716709132}
   - {fileID: 1174237452}
@@ -51389,7 +51418,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1216196826
 AudioListener:
   m_ObjectHideFlags: 0
@@ -63930,7 +63959,7 @@ GameObject:
   - component: {fileID: 1528365438}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: ExcludeTeleport
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -88150,8 +88179,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025132475}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -5.97, y: -3.681, z: -43.89}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -5.47, y: -3.9795, z: -43.882}
+  m_LocalScale: {x: 1.49578, y: 1.49578, z: 1.49578}
   m_Children:
   - {fileID: 716548002}
   - {fileID: 1549937794}
