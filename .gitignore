@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 .idea/
-/SteamVR/
+/[Ss]teamVR/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -63,4 +63,4 @@ crashlytics-build.properties
 *.meta
 *.DS_Store
 
-\Forensics VR Project Main\Temp\
+
