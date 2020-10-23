@@ -10,7 +10,8 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 .idea/
-/[Ss]teamVR/
+
+/[Aa]ssets/Steam_VRTK_Setup/SteamVR/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
