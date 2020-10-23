@@ -8,8 +8,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-.idea/
 /[Mm]emoryCaptures/
+/.idea/
+/SteamVR/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -59,5 +60,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-*.meta
-*.DS_Store
