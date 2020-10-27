@@ -27405,7 +27405,7 @@ MonoBehaviour:
   controllerEvents: {fileID: 0}
   interactUse: {fileID: 0}
   customOrigin: {fileID: 0}
-  controller: {fileID: 0}
+  controller: {fileID: 797542237}
 --- !u!114 &797542233
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33664,11 +33664,11 @@ MonoBehaviour:
   autoManageVRSettings: 1
   autoLoadSetup: 1
   setups:
-  - {fileID: 1510741869}
   - {fileID: 1710414921}
   - {fileID: 913327413}
   - {fileID: 180663658}
   - {fileID: 96287955}
+  - {fileID: 1510741869}
   excludeTargetGroups: 1a0000001b000000
   persistOnLoad: 0
 --- !u!4 &970694344

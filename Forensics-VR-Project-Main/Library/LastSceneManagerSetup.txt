@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Steam_VRTK_Setup/VRTK/Examples/[005 - Interactions] InteractableObjects.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
