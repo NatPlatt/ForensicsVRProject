@@ -64,6 +64,8 @@ crashlytics-build.properties
 *.meta
 *.DS_Store
 
+Forensics-VR-Project-Main/Library/
+
 
 
 Forensics-VR-Project-Main/Library/
