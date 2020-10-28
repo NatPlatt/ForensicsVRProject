@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
+<<<<<<< HEAD
   productGUID: 46633ab2717d80b42b05f4b3ac9da698
+=======
+  productGUID: ff938b1b1a7356c4981d5d42b8585cfa
+>>>>>>> NatalieWIP
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,11 +17,19 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Forensics VR Project Main
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 0
+=======
+  productName: Forensics-VR-Project-Main
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowUnitySplashScreen: 1
+>>>>>>> NatalieWIP
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -124,7 +136,11 @@ PlayerSettings:
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
+<<<<<<< HEAD
   xboxOneDisableKinectGpuReservation: 0
+=======
+  xboxOneDisableKinectGpuReservation: 1
+>>>>>>> NatalieWIP
   xboxOneEnable7thCore: 1
   vrSettings:
     cardboard:
@@ -162,6 +178,7 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Android: com.Company.ProductName
     Standalone: unity.Valve.SteamVR
@@ -169,6 +186,10 @@ PlayerSettings:
     tvOS: com.Company.ProductName
   buildNumber:
     iPhone: 0
+=======
+  applicationIdentifier: {}
+  buildNumber: {}
+>>>>>>> NatalieWIP
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
@@ -183,7 +204,11 @@ PlayerSettings:
   APKExpansionFiles: 0
   keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 0
+<<<<<<< HEAD
   VertexChannelCompressionMask: 214
+=======
+  VertexChannelCompressionMask: 4054
+>>>>>>> NatalieWIP
   iPhoneSdkVersion: 988
   iOSTargetOSVersionString: 10.0
   tvOSSdkVersion: 0
@@ -246,7 +271,11 @@ PlayerSettings:
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
   metalAPIValidation: 1
+<<<<<<< HEAD
   iOSRenderExtraFrameOnPause: 1
+=======
+  iOSRenderExtraFrameOnPause: 0
+>>>>>>> NatalieWIP
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
@@ -256,6 +285,7 @@ PlayerSettings:
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
+<<<<<<< HEAD
   clonedFromGUID: 3355557de5a687e44a6eface0a816616
   templatePackageId: 
   templateDefaultScene: 
@@ -266,6 +296,18 @@ PlayerSettings:
   AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
+=======
+  clonedFromGUID: 00000000000000000000000000000000
+  templatePackageId: 
+  templateDefaultScene: 
+  AndroidTargetArchitectures: 1
+  AndroidSplashScreenScale: 0
+  androidSplashScreen: {fileID: 0}
+  AndroidKeystoreName: 
+  AndroidKeyaliasName: 
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTVCompatibility: 0
+>>>>>>> NatalieWIP
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
@@ -278,6 +320,7 @@ PlayerSettings:
   androidGamepadSupportLevel: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
+<<<<<<< HEAD
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
@@ -350,17 +393,31 @@ PlayerSettings:
   - m_BuildTarget: SamsungTV
     m_Enabled: 0
     m_Devices: []
+=======
+  m_BuildTargetIcons: []
+  m_BuildTargetPlatformIcons: []
+  m_BuildTargetBatching: []
+  m_BuildTargetGraphicsJobs: []
+  m_BuildTargetGraphicsJobMode: []
+  m_BuildTargetGraphicsAPIs: []
+  m_BuildTargetVRSettings:
+>>>>>>> NatalieWIP
   - m_BuildTarget: Standalone
     m_Enabled: 1
     m_Devices:
     - None
     - OpenVR
+<<<<<<< HEAD
   - m_BuildTarget: Tizen
+=======
+  - m_BuildTarget: Android
+>>>>>>> NatalieWIP
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: WebGL
     m_Enabled: 0
     m_Devices: []
+<<<<<<< HEAD
   - m_BuildTarget: WebPlayer
     m_Enabled: 0
     m_Devices: []
@@ -368,14 +425,20 @@ PlayerSettings:
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: Xbox360
+=======
+  - m_BuildTarget: PS4
+>>>>>>> NatalieWIP
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: XboxOne
     m_Enabled: 0
     m_Devices: []
+<<<<<<< HEAD
   - m_BuildTarget: iOS
     m_Enabled: 0
     m_Devices: []
+=======
+>>>>>>> NatalieWIP
   - m_BuildTarget: tvOS
     m_Enabled: 0
     m_Devices: []
@@ -390,6 +453,7 @@ PlayerSettings:
   openGLRequireES32: 0
   m_TemplateCustomTags: {}
   mobileMTRendering:
+<<<<<<< HEAD
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality:
@@ -399,6 +463,12 @@ PlayerSettings:
     m_EncodingQuality: 1
   - m_BuildTarget: PS4
     m_EncodingQuality: 1
+=======
+    Android: 1
+    iPhone: 1
+    tvOS: 1
+  m_BuildTargetGroupLightmapEncodingQuality: []
+>>>>>>> NatalieWIP
   m_BuildTargetGroupLightmapSettings: []
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
@@ -524,7 +594,11 @@ PlayerSettings:
   switchDataLossConfirmation: 0
   switchUserAccountLockEnabled: 0
   switchSystemResourceMemory: 16777216
+<<<<<<< HEAD
   switchSupportedNpadStyles: 6
+=======
+  switchSupportedNpadStyles: 22
+>>>>>>> NatalieWIP
   switchNativeFsCacheSize: 32
   switchIsHoldTypeHorizontal: 0
   switchSupportedNpadCount: 8
@@ -542,7 +616,11 @@ PlayerSettings:
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
+<<<<<<< HEAD
   ps4ParentalLevel: 1
+=======
+  ps4ParentalLevel: 11
+>>>>>>> NatalieWIP
   ps4ContentID: ED1633-NPXX51362_00-0000000000000000
   ps4Category: 0
   ps4MasterVersion: 01.00
@@ -569,7 +647,11 @@ PlayerSettings:
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
   ps4PlayTogetherPlayerCount: 0
+<<<<<<< HEAD
   ps4EnterButtonAssignment: 1
+=======
+  ps4EnterButtonAssignment: 2
+>>>>>>> NatalieWIP
   ps4ApplicationParam1: 0
   ps4ApplicationParam2: 0
   ps4ApplicationParam3: 0
@@ -636,13 +718,20 @@ PlayerSettings:
     19: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
     21: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
     25: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
+<<<<<<< HEAD
     26: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
+=======
+>>>>>>> NatalieWIP
     27: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
     28: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
     29: VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER
   platformArchitecture: {}
+<<<<<<< HEAD
   scriptingBackend:
     Standalone: 0
+=======
+  scriptingBackend: {}
+>>>>>>> NatalieWIP
   il2cppCompilerConfiguration: {}
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
@@ -654,14 +743,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: v5
+=======
+  metroPackageName: Forensics-VR-Project-Main
+>>>>>>> NatalieWIP
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: v5
+=======
+  metroApplicationDescription: Forensics-VR-Project-Main
+>>>>>>> NatalieWIP
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -671,9 +768,16 @@ PlayerSettings:
   metroSupportStreamingInstall: 0
   metroLastRequiredScene: 0
   metroDefaultTileSize: 1
+<<<<<<< HEAD
   metroTileForegroundText: 1
   metroTileBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+=======
+  metroTileForegroundText: 2
+  metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
+>>>>>>> NatalieWIP
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -698,7 +802,11 @@ PlayerSettings:
   XboxOneCapability: []
   XboxOneGameRating: {}
   XboxOneIsContentPackage: 0
+<<<<<<< HEAD
   XboxOneEnableGPUVariability: 0
+=======
+  XboxOneEnableGPUVariability: 1
+>>>>>>> NatalieWIP
   XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
@@ -709,6 +817,7 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
+<<<<<<< HEAD
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
@@ -719,6 +828,9 @@ PlayerSettings:
     Purchasing: 0
     UNet: 0
     Unity_Ads: 0
+=======
+  cloudServicesEnabled: {}
+>>>>>>> NatalieWIP
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -738,4 +850,8 @@ PlayerSettings:
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
+<<<<<<< HEAD
   legacyClampBlendShapeWeights: 1
+=======
+  legacyClampBlendShapeWeights: 0
+>>>>>>> NatalieWIP
